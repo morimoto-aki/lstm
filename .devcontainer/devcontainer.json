@@ -45,6 +45,5 @@
         "coenraads.bracket-pair-colorizer-2",
         "shardulm94.trailing-spaces",
         "ms-ceintl.vscode-language-pack-ja"
-    ],
-    "postCreateCommand": "pip3 install -r requirements.txt"
+    ]
 }
